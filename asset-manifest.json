@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/inkoop/static/css/main.bb520d05.chunk.css",
+    "main.js": "/inkoop/static/js/main.3229bbbc.chunk.js",
+    "main.js.map": "/inkoop/static/js/main.3229bbbc.chunk.js.map",
+    "runtime-main.js": "/inkoop/static/js/runtime-main.2b6a3a7d.js",
+    "runtime-main.js.map": "/inkoop/static/js/runtime-main.2b6a3a7d.js.map",
+    "static/js/2.8312f5a7.chunk.js": "/inkoop/static/js/2.8312f5a7.chunk.js",
+    "static/js/2.8312f5a7.chunk.js.map": "/inkoop/static/js/2.8312f5a7.chunk.js.map",
+    "index.html": "/inkoop/index.html",
+    "static/css/main.bb520d05.chunk.css.map": "/inkoop/static/css/main.bb520d05.chunk.css.map",
+    "static/js/2.8312f5a7.chunk.js.LICENSE.txt": "/inkoop/static/js/2.8312f5a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b6a3a7d.js",
+    "static/js/2.8312f5a7.chunk.js",
+    "static/css/main.bb520d05.chunk.css",
+    "static/js/main.3229bbbc.chunk.js"
+  ]
+}
